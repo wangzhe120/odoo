@@ -5039,7 +5039,7 @@ msgstr "Oferit de %s%s"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.login_layout
-msgid "Powered by <span>Odoo</span>"
+msgid "Powered by <span>PayServe</span>"
 msgstr "Oferit de <span>Odoo</span>"
 
 #. module: web
