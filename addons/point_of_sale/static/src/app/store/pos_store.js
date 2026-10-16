@@ -1259,9 +1259,7 @@ export class PosStore extends Reactive {
                 order.recomputeOrderData();
             }
 
-            const serializedOrder = orders.map((order) =>
-                order.serialize({ orm: true, clear: true })
-            );
+            const serializedOrder = orders.map((order) => order.serialize({ orm: true }));
             const data = await this.data.call("pos.order", "sync_from_ui", [serializedOrder], {
                 context,
             });
@@ -1296,6 +1294,9 @@ export class PosStore extends Reactive {
                     .forEach((order) => (order.session_id = this.session));
             }
 
+            // [PayServe backport odoo/odoo@70841f1fa2] Removal commands now survive a failed
+            // sync; drop them only once the server has accepted these orders.
+            orders.forEach((order) => order.clearCommands());
             this.clearPendingOrder();
             return newData["pos.order"];
         } catch (error) {
