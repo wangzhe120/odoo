@@ -4568,8 +4568,8 @@ msgstr "Odoo"
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Client Error"
-msgstr "ข้อผิดพลาดลูกค้า Odoo"
+msgid "PayServe Client Error"
+msgstr "ข้อผิดพลาดลูกค้า PayServe"
 
 #. module: web
 #. odoo-javascript
@@ -4580,14 +4580,14 @@ msgstr "Odoo สำหรับองค์กร"
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Error"
-msgstr "ข้อผิดพลาด Odoo"
+msgid "PayServe Error"
+msgstr "ข้อผิดพลาด PayServe"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Network Error"
-msgstr "ข้อผิดพลาดเครือข่าย Odoo"
+msgid "PayServe Network Error"
+msgstr "ข้อผิดพลาดเครือข่าย PayServe"
 
 #. module: web
 #. odoo-javascript
@@ -4607,21 +4607,21 @@ msgstr "Odoo S.A."
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Server Error"
-msgstr "ข้อผิดพลาดของเซิร์ฟเวอร์ Odoo"
+msgid "PayServe Server Error"
+msgstr "ข้อผิดพลาดของเซิร์ฟเวอร์ PayServe"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
-msgid "Odoo Session Expired"
-msgstr "เซสชัน Odoo หมดอายุ"
+msgid "PayServe Session Expired"
+msgstr "เซสชัน PayServe หมดอายุ"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Warning"
-msgstr "คำเตือน Odoo"
+msgid "PayServe Warning"
+msgstr "คำเตือน PayServe"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.webclient_offline
@@ -7399,8 +7399,8 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
-msgid "Your Odoo session expired. The current page is about to be refreshed."
-msgstr "เซสชัน Odoo ของคุณหมดอายุแล้ว หน้าปัจจุบันกำลังจะถูกรีเฟรช"
+msgid "Your PayServe session expired. The current page is about to be refreshed."
+msgstr "เซสชัน PayServe ของคุณหมดอายุแล้ว หน้าปัจจุบันกำลังจะถูกรีเฟรช"
 
 #. module: web
 #. odoo-javascript

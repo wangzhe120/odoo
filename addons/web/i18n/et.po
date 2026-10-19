@@ -4580,8 +4580,8 @@ msgstr "Odoo"
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Client Error"
-msgstr "Odoo kliendi viga"
+msgid "PayServe Client Error"
+msgstr "PayServe kliendi viga"
 
 #. module: web
 #. odoo-javascript
@@ -4592,14 +4592,14 @@ msgstr "Odoo Enterprise"
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Error"
-msgstr "Odoo viga"
+msgid "PayServe Error"
+msgstr "PayServe viga"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Network Error"
-msgstr "Odoo võrgu viga"
+msgid "PayServe Network Error"
+msgstr "PayServe võrgu viga"
 
 #. module: web
 #. odoo-javascript
@@ -4621,21 +4621,21 @@ msgstr "Odoo S.A."
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Server Error"
-msgstr "Odoo serveri viga"
+msgid "PayServe Server Error"
+msgstr "PayServe serveri viga"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
-msgid "Odoo Session Expired"
-msgstr "Odoo sessioon on aegunud"
+msgid "PayServe Session Expired"
+msgstr "PayServe sessioon on aegunud"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Warning"
-msgstr "Odoo hoiatus"
+msgid "PayServe Warning"
+msgstr "PayServe hoiatus"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.webclient_offline
@@ -7426,8 +7426,8 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
-msgid "Your Odoo session expired. The current page is about to be refreshed."
-msgstr "Teie Odoo sessioon on aegunud. Praegust lehte värskendatakse."
+msgid "Your PayServe session expired. The current page is about to be refreshed."
+msgstr "Teie PayServe sessioon on aegunud. Praegust lehte värskendatakse."
 
 #. module: web
 #. odoo-javascript

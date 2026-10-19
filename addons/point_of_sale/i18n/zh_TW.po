@@ -4532,8 +4532,8 @@ msgstr "交易數量："
 #. module: point_of_sale
 #. odoo-javascript
 #: code:addons/point_of_sale/static/src/app/errors/error_handlers.js:0
-msgid "Odoo Server Error"
-msgstr "Odoo 伺服器錯誤"
+msgid "PayServe Server Error"
+msgstr "PayServe 伺服器錯誤"
 
 #. module: point_of_sale
 #: model:product.template,name:point_of_sale.product_odoo_sneakers_product_template

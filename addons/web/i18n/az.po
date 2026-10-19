@@ -4610,8 +4610,8 @@ msgstr "Odoo"
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Client Error"
-msgstr "Odoo Klient Xətası"
+msgid "PayServe Client Error"
+msgstr "PayServe Klient Xətası"
 
 #. module: web
 #. odoo-javascript
@@ -4622,14 +4622,14 @@ msgstr "Odoo Enterprise"
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Error"
-msgstr "Odoo xətası"
+msgid "PayServe Error"
+msgstr "PayServe xətası"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Network Error"
-msgstr "Odoo Şəbəkə Xətası"
+msgid "PayServe Network Error"
+msgstr "PayServe Şəbəkə Xətası"
 
 #. module: web
 #. odoo-javascript
@@ -4651,21 +4651,21 @@ msgstr "Odoo S.A."
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Server Error"
-msgstr "Odoo Server Xətası"
+msgid "PayServe Server Error"
+msgstr "PayServe Server Xətası"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
-msgid "Odoo Session Expired"
-msgstr "Odoo Sessiyası Bitdi"
+msgid "PayServe Session Expired"
+msgstr "PayServe Sessiyası Bitdi"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Warning"
-msgstr "Odoo Xəbərdarlığı"
+msgid "PayServe Warning"
+msgstr "PayServe Xəbərdarlığı"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.webclient_offline
@@ -7484,9 +7484,9 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
-msgid "Your Odoo session expired. The current page is about to be refreshed."
+msgid "Your PayServe session expired. The current page is about to be refreshed."
 msgstr ""
-"Sizin Odoo sessiyanızın müddəti başa çatmışdır. Hazırki səhifə az sonra "
+"Sizin PayServe sessiyanızın müddəti başa çatmışdır. Hazırki səhifə az sonra "
 "yenilənəcək."
 
 #. module: web

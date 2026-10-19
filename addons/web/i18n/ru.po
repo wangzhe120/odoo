@@ -4608,8 +4608,8 @@ msgstr "Odoo"
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Client Error"
-msgstr "Ошибка клиента Odoo"
+msgid "PayServe Client Error"
+msgstr "Ошибка клиента PayServe"
 
 #. module: web
 #. odoo-javascript
@@ -4620,14 +4620,14 @@ msgstr "Odoo Enterprise"
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Error"
-msgstr "Ошибка Odoo"
+msgid "PayServe Error"
+msgstr "Ошибка PayServe"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Network Error"
-msgstr "Сетевая ошибка Odoo"
+msgid "PayServe Network Error"
+msgstr "Сетевая ошибка PayServe"
 
 #. module: web
 #. odoo-javascript
@@ -4649,21 +4649,21 @@ msgstr "Odoo S.A."
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Server Error"
-msgstr "Ошибка сервера Odoo"
+msgid "PayServe Server Error"
+msgstr "Ошибка сервера PayServe"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
-msgid "Odoo Session Expired"
-msgstr "Сессия Odoo истекла"
+msgid "PayServe Session Expired"
+msgstr "Сессия PayServe истекла"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Warning"
-msgstr "Предупреждение Odoo"
+msgid "PayServe Warning"
+msgstr "Предупреждение PayServe"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.webclient_offline
@@ -7481,8 +7481,8 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
-msgid "Your Odoo session expired. The current page is about to be refreshed."
-msgstr "Ваша сессия Odoo истекла. Текущая страница скоро будет обновлена."
+msgid "Your PayServe session expired. The current page is about to be refreshed."
+msgstr "Ваша сессия PayServe истекла. Текущая страница скоро будет обновлена."
 
 #. module: web
 #. odoo-javascript

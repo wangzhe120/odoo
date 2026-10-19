@@ -4617,8 +4617,8 @@ msgstr "Odoo"
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Client Error"
-msgstr "Eroare client Odoo"
+msgid "PayServe Client Error"
+msgstr "Eroare client PayServe"
 
 #. module: web
 #. odoo-javascript
@@ -4629,14 +4629,14 @@ msgstr "Odoo Enterprise"
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Error"
-msgstr "Eroare Odoo"
+msgid "PayServe Error"
+msgstr "Eroare PayServe"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Network Error"
-msgstr "Eroare de rețea Odoo"
+msgid "PayServe Network Error"
+msgstr "Eroare de rețea PayServe"
 
 #. module: web
 #. odoo-javascript
@@ -4658,21 +4658,21 @@ msgstr "Odoo S.A."
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Server Error"
-msgstr "Eroare server Odoo"
+msgid "PayServe Server Error"
+msgstr "Eroare server PayServe"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
-msgid "Odoo Session Expired"
-msgstr "Sesiunea Odoo a expirat"
+msgid "PayServe Session Expired"
+msgstr "Sesiunea PayServe a expirat"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Warning"
-msgstr "Avertisment Odoo"
+msgid "PayServe Warning"
+msgstr "Avertisment PayServe"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.webclient_offline
@@ -7497,8 +7497,8 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
-msgid "Your Odoo session expired. The current page is about to be refreshed."
-msgstr "Sesiunea Odoo a expirat. Pagina curentă va fi reîncărcată."
+msgid "Your PayServe session expired. The current page is about to be refreshed."
+msgstr "Sesiunea PayServe a expirat. Pagina curentă va fi reîncărcată."
 
 #. module: web
 #. odoo-javascript

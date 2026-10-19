@@ -4546,8 +4546,8 @@ msgstr "Odoo"
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Client Error"
-msgstr "שגיאת Odoo"
+msgid "PayServe Client Error"
+msgstr "שגיאת PayServe"
 
 #. module: web
 #. odoo-javascript
@@ -4558,13 +4558,13 @@ msgstr ""
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Error"
-msgstr "שגיאת Odoo"
+msgid "PayServe Error"
+msgstr "שגיאת PayServe"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Network Error"
+msgid "PayServe Network Error"
 msgstr ""
 
 #. module: web
@@ -4585,21 +4585,21 @@ msgstr "יישומי Odoo"
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Server Error"
-msgstr "שגיאת שרת של Odoo"
+msgid "PayServe Server Error"
+msgstr "שגיאת שרת של PayServe"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
-msgid "Odoo Session Expired"
-msgstr "תם זמן הפעולה של אפליקציית Odoo !"
+msgid "PayServe Session Expired"
+msgstr "תם זמן הפעולה של אפליקציית PayServe !"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Warning"
-msgstr "אזהרת Odoo"
+msgid "PayServe Warning"
+msgstr "אזהרת PayServe"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.webclient_offline
@@ -7360,8 +7360,8 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
-msgid "Your Odoo session expired. The current page is about to be refreshed."
-msgstr "תם זמן הפעולה של Odoo. העמוד הנוכחי יעבור רענון."
+msgid "Your PayServe session expired. The current page is about to be refreshed."
+msgstr "תם זמן הפעולה של PayServe. העמוד הנוכחי יעבור רענון."
 
 #. module: web
 #. odoo-javascript

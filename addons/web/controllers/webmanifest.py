@@ -8,7 +8,7 @@ from urllib.parse import unquote, urlencode
 from odoo import http, modules
 from odoo.exceptions import AccessError
 from odoo.http import request
-from odoo.tools import file_open, file_path, image_process
+from odoo.tools import file_open, image_process
 
 
 class WebManifest(http.Controller):
@@ -41,14 +41,14 @@ class WebManifest(http.Controller):
         return shortcuts
 
     def _get_webmanifest(self):
-        web_app_name = request.env['ir.config_parameter'].sudo().get_param('web.web_app_name', 'Odoo')
+        web_app_name = request.env['ir.config_parameter'].sudo().get_param('web.web_app_name', 'PayServe')
         manifest = {
             'name': web_app_name,
             'scope': '/odoo',
             'start_url': '/odoo',
             'display': 'standalone',
-            'background_color': '#714B67',
-            'theme_color': '#714B67',
+            'background_color': '#8DD0F7',
+            'theme_color': '#8DD0F7',
             'prefer_related_applications': False,
         }
         icon_sizes = ['192x192', '512x512']
@@ -154,8 +154,8 @@ class WebManifest(http.Controller):
             'scope': path,
             'start_url': path,
             'display': 'standalone',
-            'background_color': '#714B67',
-            'theme_color': '#714B67',
+            'background_color': '#8DD0F7',
+            'theme_color': '#8DD0F7',
             'prefer_related_applications': False,
             'shortcuts': self._get_scoped_app_shortcuts(app_id)
         }
@@ -173,13 +173,9 @@ class WebManifest(http.Controller):
         return app_id
 
     def _get_scoped_app_icons(self, app_id):
-        try:
-            file_path(f'{app_id}/static/description/icon.svg')
-            src = f'{app_id}/static/description/icon.svg'
-        except FileNotFoundError:
-            src = self._icon_path()
+        # PayServe: installed apps (e.g. the PoS) use the PayServe icon, not the module's Odoo icon
         return [{
-            'src': f"/{src}",
-            'sizes': 'any',
-            'type': mimetypes.guess_type(src)[0] or 'image/png'
-        }]
+            'src': f"/web/static/img/odoo-icon-{size}.png",
+            'sizes': size,
+            'type': 'image/png'
+        } for size in ('192x192', '512x512')]

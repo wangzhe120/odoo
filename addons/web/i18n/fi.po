@@ -4640,8 +4640,8 @@ msgstr "Odoo"
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Client Error"
-msgstr "Odoo-käyttöliittymävirhe"
+msgid "PayServe Client Error"
+msgstr "PayServe-käyttöliittymävirhe"
 
 #. module: web
 #. odoo-javascript
@@ -4652,14 +4652,14 @@ msgstr "Odoo Enterprise"
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Error"
-msgstr "Odoo-virhe"
+msgid "PayServe Error"
+msgstr "PayServe-virhe"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Network Error"
-msgstr "Odoon yhteysvirhe"
+msgid "PayServe Network Error"
+msgstr "PayServen yhteysvirhe"
 
 #. module: web
 #. odoo-javascript
@@ -4681,21 +4681,21 @@ msgstr "Odoo S.A."
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Server Error"
-msgstr "Odoon palvelinvirhe"
+msgid "PayServe Server Error"
+msgstr "PayServen palvelinvirhe"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
-msgid "Odoo Session Expired"
-msgstr "Odoon istunto vanhentui"
+msgid "PayServe Session Expired"
+msgstr "PayServen istunto vanhentui"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Warning"
-msgstr "Odoo-varoitus"
+msgid "PayServe Warning"
+msgstr "PayServe-varoitus"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.webclient_offline
@@ -7517,8 +7517,8 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
-msgid "Your Odoo session expired. The current page is about to be refreshed."
-msgstr "Odoo-istuntosi päättyi. Nykyinen sivu on päivittymässä."
+msgid "Your PayServe session expired. The current page is about to be refreshed."
+msgstr "PayServe-istuntosi päättyi. Nykyinen sivu on päivittymässä."
 
 #. module: web
 #. odoo-javascript

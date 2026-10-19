@@ -616,7 +616,7 @@ class CSVExport(ExportFormat, http.Controller):
             _logger.exception("Exception during request handling.")
             payload = json.dumps({
                 'code': 200,
-                'message': "Odoo Server Error",
+                'message': "PayServe Server Error",
                 'data': http.serialize_exception(exc)
             })
             raise InternalServerError(payload) from exc
@@ -664,7 +664,7 @@ class ExcelExport(ExportFormat, http.Controller):
             _logger.exception("Exception during request handling.")
             payload = json.dumps({
                 'code': 200,
-                'message': "Odoo Server Error",
+                'message': "PayServe Server Error",
                 'data': http.serialize_exception(exc)
             })
             raise InternalServerError(payload) from exc

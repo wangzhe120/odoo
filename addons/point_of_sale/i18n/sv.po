@@ -4651,8 +4651,8 @@ msgstr "Antal transaktioner:"
 #. module: point_of_sale
 #. odoo-javascript
 #: code:addons/point_of_sale/static/src/app/errors/error_handlers.js:0
-msgid "Odoo Server Error"
-msgstr "Odoo Serverfel"
+msgid "PayServe Server Error"
+msgstr "PayServe Serverfel"
 
 #. module: point_of_sale
 #: model:product.template,name:point_of_sale.product_odoo_sneakers_product_template

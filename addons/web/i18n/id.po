@@ -4605,8 +4605,8 @@ msgstr "Odoo"
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Client Error"
-msgstr "Eror Klien Odoo"
+msgid "PayServe Client Error"
+msgstr "Eror Klien PayServe"
 
 #. module: web
 #. odoo-javascript
@@ -4617,14 +4617,14 @@ msgstr "Odoo Enterprise"
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Error"
-msgstr "Eror Odoo"
+msgid "PayServe Error"
+msgstr "Eror PayServe"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Network Error"
-msgstr "Odoo Network Error"
+msgid "PayServe Network Error"
+msgstr "PayServe Network Error"
 
 #. module: web
 #. odoo-javascript
@@ -4646,21 +4646,21 @@ msgstr "Odoo S.A."
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Server Error"
-msgstr "Odoo Server Error"
+msgid "PayServe Server Error"
+msgstr "PayServe Server Error"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
-msgid "Odoo Session Expired"
-msgstr "Sesi Odoo Kadaluwarsa"
+msgid "PayServe Session Expired"
+msgstr "Sesi PayServe Kadaluwarsa"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Warning"
-msgstr "Peringatan Odoo"
+msgid "PayServe Warning"
+msgstr "Peringatan PayServe"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.webclient_offline
@@ -7472,8 +7472,8 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
-msgid "Your Odoo session expired. The current page is about to be refreshed."
-msgstr "Sesi Odoo Anda berakhir. Silakan refresh halaman web saat ini."
+msgid "Your PayServe session expired. The current page is about to be refreshed."
+msgstr "Sesi PayServe Anda berakhir. Silakan refresh halaman web saat ini."
 
 #. module: web
 #. odoo-javascript

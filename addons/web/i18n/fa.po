@@ -4589,7 +4589,7 @@ msgstr "اودو"
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Client Error"
+msgid "PayServe Client Error"
 msgstr "خطای کلاینت اودو"
 
 #. module: web
@@ -4601,13 +4601,13 @@ msgstr "اودوو اینترپرایز"
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Error"
+msgid "PayServe Error"
 msgstr "خطای اودو"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Network Error"
+msgid "PayServe Network Error"
 msgstr "خطای شبکه اودوو"
 
 #. module: web
@@ -4630,20 +4630,20 @@ msgstr "سایت اودوو "
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Server Error"
+msgid "PayServe Server Error"
 msgstr "خطای سرور اودوو"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
-msgid "Odoo Session Expired"
+msgid "PayServe Session Expired"
 msgstr "نشست اودو منقضی شده"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Warning"
+msgid "PayServe Warning"
 msgstr "هشدار اودو"
 
 #. module: web
@@ -7459,7 +7459,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
-msgid "Your Odoo session expired. The current page is about to be refreshed."
+msgid "Your PayServe session expired. The current page is about to be refreshed."
 msgstr "نشست اودوو شما منقضی شده است. این صفحه بازفراخوانی خواهد شد."
 
 #. module: web

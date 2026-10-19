@@ -2399,7 +2399,7 @@ class JsonRPCDispatcher(Dispatcher):
                           # distinct from the HTTP status code. This
                           # code is ignored and the value 200 (while
                           # misleading) is totally arbitrary.
-            'message': "Odoo Server Error",
+            'message': "PayServe Server Error",
             'data': serialize_exception(exc),
         }
         if isinstance(exc, NotFound):
@@ -2407,7 +2407,7 @@ class JsonRPCDispatcher(Dispatcher):
             error['message'] = "404: Not Found"
         elif isinstance(exc, SessionExpiredException):
             error['code'] = 100
-            error['message'] = "Odoo Session Expired"
+            error['message'] = "PayServe Session Expired"
 
         return self._response(error=error)
 

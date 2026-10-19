@@ -4604,7 +4604,7 @@ msgstr "Odoo"
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Client Error"
+msgid "PayServe Client Error"
 msgstr "Lỗi phía máy khách"
 
 #. module: web
@@ -4616,14 +4616,14 @@ msgstr "Hệ thống cho Doanh nghiệp"
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Error"
+msgid "PayServe Error"
 msgstr "Lỗi hệ thống"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Network Error"
-msgstr "Lỗi mạng Odoo"
+msgid "PayServe Network Error"
+msgstr "Lỗi mạng PayServe"
 
 #. module: web
 #. odoo-javascript
@@ -4643,20 +4643,20 @@ msgstr "Odoo S.A."
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Server Error"
-msgstr "Lỗi máy chủ Odoo"
+msgid "PayServe Server Error"
+msgstr "Lỗi máy chủ PayServe"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
-msgid "Odoo Session Expired"
+msgid "PayServe Session Expired"
 msgstr "Phiên làm việc đã hết hạn"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Warning"
+msgid "PayServe Warning"
 msgstr "Cảnh báo hệ thống"
 
 #. module: web
@@ -7470,7 +7470,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
-msgid "Your Odoo session expired. The current page is about to be refreshed."
+msgid "Your PayServe session expired. The current page is about to be refreshed."
 msgstr "Phiên làm việc của bạn đã hết hạn. Xin hãy tải lại trang hiện tại."
 
 #. module: web

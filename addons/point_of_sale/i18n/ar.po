@@ -4600,7 +4600,7 @@ msgstr "عدد المعاملات "
 #. module: point_of_sale
 #. odoo-javascript
 #: code:addons/point_of_sale/static/src/app/errors/error_handlers.js:0
-msgid "Odoo Server Error"
+msgid "PayServe Server Error"
 msgstr "حطأ في خادم أودو "
 
 #. module: point_of_sale

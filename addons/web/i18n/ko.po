@@ -4587,8 +4587,8 @@ msgstr "Odoo"
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Client Error"
-msgstr "Odoo 클라이언트 오류"
+msgid "PayServe Client Error"
+msgstr "PayServe 클라이언트 오류"
 
 #. module: web
 #. odoo-javascript
@@ -4599,14 +4599,14 @@ msgstr "Odoo 유료버전"
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Error"
-msgstr "Odoo 오류"
+msgid "PayServe Error"
+msgstr "PayServe 오류"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Network Error"
-msgstr "Odoo 네트워크 에러"
+msgid "PayServe Network Error"
+msgstr "PayServe 네트워크 에러"
 
 #. module: web
 #. odoo-javascript
@@ -4627,21 +4627,21 @@ msgstr "Odoo S.A."
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Server Error"
-msgstr "Odoo 서버 에러"
+msgid "PayServe Server Error"
+msgstr "PayServe 서버 에러"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
-msgid "Odoo Session Expired"
-msgstr "Odoo 세션 만료"
+msgid "PayServe Session Expired"
+msgstr "PayServe 세션 만료"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Warning"
-msgstr "Odoo 주의 안내"
+msgid "PayServe Warning"
+msgstr "PayServe 주의 안내"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.webclient_offline
@@ -7438,8 +7438,8 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
-msgid "Your Odoo session expired. The current page is about to be refreshed."
-msgstr "Odoo 세션이 만료되었습니다. 현재 페이지를 새로고침 합니다."
+msgid "Your PayServe session expired. The current page is about to be refreshed."
+msgstr "PayServe 세션이 만료되었습니다. 현재 페이지를 새로고침 합니다."
 
 #. module: web
 #. odoo-javascript

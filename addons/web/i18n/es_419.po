@@ -4618,8 +4618,8 @@ msgstr "Odoo"
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Client Error"
-msgstr "Error de cliente de Odoo"
+msgid "PayServe Client Error"
+msgstr "Error de cliente de PayServe"
 
 #. module: web
 #. odoo-javascript
@@ -4630,14 +4630,14 @@ msgstr "Odoo Enterprise"
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Error"
-msgstr "Error de Odoo"
+msgid "PayServe Error"
+msgstr "Error de PayServe"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Network Error"
-msgstr "Error de red de Odoo"
+msgid "PayServe Network Error"
+msgstr "Error de red de PayServe"
 
 #. module: web
 #. odoo-javascript
@@ -4659,21 +4659,21 @@ msgstr "Odoo S.A."
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Server Error"
-msgstr "Error de servidor de Odoo"
+msgid "PayServe Server Error"
+msgstr "Error de servidor de PayServe"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
-msgid "Odoo Session Expired"
-msgstr "Expiró la sesión de Odoo"
+msgid "PayServe Session Expired"
+msgstr "Expiró la sesión de PayServe"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Warning"
-msgstr "Advertencia de Odoo"
+msgid "PayServe Warning"
+msgstr "Advertencia de PayServe"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.webclient_offline
@@ -7498,8 +7498,8 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
-msgid "Your Odoo session expired. The current page is about to be refreshed."
-msgstr "Su sesión de Odoo expiró. Se actualizará la página actual."
+msgid "Your PayServe session expired. The current page is about to be refreshed."
+msgstr "Su sesión de PayServe expiró. Se actualizará la página actual."
 
 #. module: web
 #. odoo-javascript

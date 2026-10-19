@@ -4566,8 +4566,8 @@ msgstr "Odoo"
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Client Error"
-msgstr "ຂໍ້ຜິດພາດຈາກຝັ່ງ Odoo Client"
+msgid "PayServe Client Error"
+msgstr "ຂໍ້ຜິດພາດຈາກຝັ່ງ PayServe Client"
 
 #. module: web
 #. odoo-javascript
@@ -4578,14 +4578,14 @@ msgstr "Odoo ເອັນເຕີໄພຣສ໌"
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Error"
-msgstr "ຂໍ້ຜິດພາດ Odoo"
+msgid "PayServe Error"
+msgstr "ຂໍ້ຜິດພາດ PayServe"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Network Error"
-msgstr "ຂໍ້ຜິດພາດທາງເຄືອຂ່າຍ Odoo"
+msgid "PayServe Network Error"
+msgstr "ຂໍ້ຜິດພາດທາງເຄືອຂ່າຍ PayServe"
 
 #. module: web
 #. odoo-javascript
@@ -4605,21 +4605,21 @@ msgstr "Odoo S.A."
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Server Error"
-msgstr "ຂໍ້ຜິດພາດຂອງເຊີບເວີ Odoo"
+msgid "PayServe Server Error"
+msgstr "ຂໍ້ຜິດພາດຂອງເຊີບເວີ PayServe"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
-msgid "Odoo Session Expired"
-msgstr "ເຊດຊັນ Odoo ໝົດອາຍຸ"
+msgid "PayServe Session Expired"
+msgstr "ເຊດຊັນ PayServe ໝົດອາຍຸ"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Warning"
-msgstr "ຄຳເຕືອນ Odoo"
+msgid "PayServe Warning"
+msgstr "ຄຳເຕືອນ PayServe"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.webclient_offline
@@ -7405,8 +7405,8 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
-msgid "Your Odoo session expired. The current page is about to be refreshed."
-msgstr "ເຊດຊັນ Odoo ຂອງທ່ານໝົດອາຍຸແລ້ວ. ໜ້າປັດຈຸບັນກໍາລັງຈະຖືກໂຫຼດໃໝ່."
+msgid "Your PayServe session expired. The current page is about to be refreshed."
+msgstr "ເຊດຊັນ PayServe ຂອງທ່ານໝົດອາຍຸແລ້ວ. ໜ້າປັດຈຸບັນກໍາລັງຈະຖືກໂຫຼດໃໝ່."
 
 #. module: web
 #. odoo-javascript

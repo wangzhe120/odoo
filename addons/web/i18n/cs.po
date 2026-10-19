@@ -4601,8 +4601,8 @@ msgstr "Odoo"
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Client Error"
-msgstr "Chyba klienta Odoo "
+msgid "PayServe Client Error"
+msgstr "Chyba klienta PayServe "
 
 #. module: web
 #. odoo-javascript
@@ -4613,13 +4613,13 @@ msgstr "Odoo Enterprise"
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Error"
-msgstr "Odoo chyba"
+msgid "PayServe Error"
+msgstr "PayServe chyba"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Network Error"
+msgid "PayServe Network Error"
 msgstr ""
 
 #. module: web
@@ -4642,21 +4642,21 @@ msgstr "Odoo S.A."
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Server Error"
-msgstr "Chyba serveru Odoo"
+msgid "PayServe Server Error"
+msgstr "Chyba serveru PayServe"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
-msgid "Odoo Session Expired"
-msgstr "Platnost Odoo vypršela"
+msgid "PayServe Session Expired"
+msgstr "Platnost PayServe vypršela"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
-msgid "Odoo Warning"
-msgstr "Odoo varování"
+msgid "PayServe Warning"
+msgstr "PayServe varování"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.webclient_offline
@@ -7463,8 +7463,8 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
-msgid "Your Odoo session expired. The current page is about to be refreshed."
-msgstr "Vaše relace Odoo vypršela. Aktuální stránka se brzy obnoví."
+msgid "Your PayServe session expired. The current page is about to be refreshed."
+msgstr "Vaše relace PayServe vypršela. Aktuální stránka se brzy obnoví."
 
 #. module: web
 #. odoo-javascript
